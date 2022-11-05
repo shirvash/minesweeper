@@ -12,6 +12,7 @@ div {
 
 .container {
     width: 500px;
+    height: 500px;
     align-content: center;
     margin: auto;
 }
@@ -75,3 +76,12 @@ div {
     margin-top: 5px;
     color: #e76346;
 }
+
+.settings {
+    /* height: 100px; */
+    /* width: 100px; */
+    /* background-color: #dcd6bc; */
+    align-content: center;
+    margin:auto;
+}
+
